@@ -1524,6 +1524,10 @@
     body {
         font-size: 14px;
     }
+    .gform{
+        width: 370px;
+        height: 900px;
+    }
     .h1,
     h1 {
         font-size: 24px;

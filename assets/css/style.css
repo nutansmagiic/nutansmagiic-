@@ -161,6 +161,10 @@ section.pb_70,.pb_70 {
 button:focus {
 	outline:none;
 }
+.gform{
+	width: 650px;
+	height: 900px;
+}
 .btn {
 	border-width: 2px;
 	cursor: pointer;
